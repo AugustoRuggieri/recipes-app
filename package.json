@@ -2,7 +2,7 @@
   "name": "recipes-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AugustoRuggieri/recipes-app",
+  "homepage": "https://AugustoRuggieri.github.io/recipes-app",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",

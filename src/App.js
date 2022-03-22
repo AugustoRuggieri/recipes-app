@@ -8,7 +8,7 @@ import { HiHome } from "react-icons/hi"
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <StyledNav>
           <HiHome />
           <HomeButton to={"/"}>Home</HomeButton>
