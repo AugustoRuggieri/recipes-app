@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AugustoRuggieri/recipes-app/static/css/main.6a906e8e.css",
-    "main.js": "/AugustoRuggieri/recipes-app/static/js/main.4c2c2291.js",
-    "index.html": "/AugustoRuggieri/recipes-app/index.html",
-    "main.6a906e8e.css.map": "/AugustoRuggieri/recipes-app/static/css/main.6a906e8e.css.map",
-    "main.4c2c2291.js.map": "/AugustoRuggieri/recipes-app/static/js/main.4c2c2291.js.map"
+    "main.css": "/recipes-app/static/css/main.6a906e8e.css",
+    "main.js": "/recipes-app/static/js/main.d86462f0.js",
+    "index.html": "/recipes-app/index.html",
+    "main.6a906e8e.css.map": "/recipes-app/static/css/main.6a906e8e.css.map",
+    "main.d86462f0.js.map": "/recipes-app/static/js/main.d86462f0.js.map"
   },
   "entrypoints": [
     "static/css/main.6a906e8e.css",
-    "static/js/main.4c2c2291.js"
+    "static/js/main.d86462f0.js"
   ]
 }
